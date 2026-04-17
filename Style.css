@@ -3,9 +3,9 @@
  padding:0;
 }
 
-body {
+body { 
     height: 100vh;
-    background: rgb(0, 0, 61);
+    background: linear-gradient(100deg, rgb(0, 0, 61), darkblue, rgb(0, 0, 61));
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
